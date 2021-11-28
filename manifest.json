@@ -1,0 +1,97 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "Allow you to choose which panorama screen you want to use",
+		"name": "§9TheAlienDoctor's§e Pano Selector §4Version: 1.3.0",
+		"uuid": "02c439ea-3a0e-44dc-aa6d-18f078703340",
+		"version": [
+			1,
+			3,
+			0
+		],
+		"min_engine_version": [
+			1,
+			16,
+			0
+		]
+	},
+	"modules": [
+		{
+			"description": "Allow you to choose which panorama screen you want to use.",
+			"type": "resources",
+			"uuid": "0f4e7171-0304-4134-8015-af942b5a6b0e",
+			"version": [
+				1,
+				3,
+				0
+			]
+		}
+	],
+	"subpacks": [
+		{
+			"folder_name": "01Education",
+			"name": "Education Edition",
+			"memory_tier": 1
+		},
+		{
+			"folder_name": "02PEpano",
+			"name": "Orignal PE Pano [PE Alpha 0.7.3]",
+			"memory_tier": 2
+		},
+		{
+			"folder_name": "03Beta",
+			"name": "Beta [All Beta versions]",
+			"memory_tier": 3
+		},
+		{
+			"folder_name": "04BetterTogether",
+			"name": "Better Together Update [1.2.0]",
+			"memory_tier": 4
+		},
+		{
+			"folder_name": "05Aquatic",
+			"name": "Update Aquatic [1.4.0]",
+			"memory_tier": 5
+		},
+		{
+			"folder_name": "06Panda",
+			"name": "Holiday Update (Panda) [1.8.0]",
+			"memory_tier": 6
+		},
+		{
+			"folder_name": "07Village",
+			"name": "Village & Pillage [1.11.0]",
+			"memory_tier": 7
+		},
+		{
+			"folder_name": "08Bees",
+			"name": "Buzzy Bees [1.14.0]",
+			"memory_tier": 8
+		},
+		{
+			"folder_name": "09Nether",
+			"name": "Nether Update [1.16.0]",
+			"memory_tier": 9
+		},
+		{
+			"folder_name": "10Caves",
+			"name": "Caves and Cliffs Update Part 1 [1.17.0]",
+			"memory_tier": 10
+		},
+		{
+			"folder_name": "11pack.png",
+			"name": "pack.png",
+			"memory_tier": 11
+		},
+		{
+			"folder_name": "12Classic",
+			"name": "Java Classic",
+			"memory_tier": 12
+		},
+		{
+			"folder_name": "13Tutorial",
+			"name": "Legacy Console Tutorial",
+			"memory_tier": 13
+		}
+	]
+}
