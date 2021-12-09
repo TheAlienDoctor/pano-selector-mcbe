@@ -1,29 +1,29 @@
 {
 	"format_version": 2,
 	"header": {
-		"description": "§9Allows you to choose from a selection of past Panorama screens §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.4.0",
-		"name": "§1Alien's §ePanorama selector §4(V1.4.0)",
-		"uuid": "ef3d5737-5f93-4456-b2ef-868dd31474d0",
+		"description": "§9Allows you to choose from a selection of menu panoramas §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.4.1",
+		"name": "§1Alien's §ePano selector §4(V1.0.0)",
+		"uuid": "4ed092a2-7870-4935-8be0-ec87a3b68673",
 		"version": [
 			1,
 			4,
-			0
+			1
 		],
 		"min_engine_version": [
 			1,
-			16,
+			18,
 			0
 		]
 	},
 	"modules": [
 		{
-			"description": "§9Allows you to choose from a selection of past Panorama screens §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.4.0",
+			"description": "§9Allows you to choose from a selection of menu panoramas §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.4.1",
 			"type": "resources",
-			"uuid": "adc4530f-cde6-4a81-a27f-51524e7c8d02",
+			"uuid": "e016d5ab-1814-46eb-8004-9b2a92780ddc",
 			"version": [
 				1,
 				4,
-				0
+				1
 			]
 		}
 	],
