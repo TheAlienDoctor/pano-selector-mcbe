@@ -1,29 +1,29 @@
 {
 	"format_version": 2,
 	"header": {
-		"description": "§9Allows you to choose from a selection of menu panoramas §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.4.2 §r",
-		"name": "§1Alien's §ePano selector §4(V1.4.2) §r",
+		"description": "Allows you to choose from a selection of menu panoramas | §3 by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.4.3 §r",
+		"name": "§1Alien's §ePano selector §4(V1.4.3) §r",
 		"uuid": "4ed092a2-7870-4935-8be0-ec87a3b68673",
 		"version": [
 			1,
 			4,
-			2
+			3
 		],
 		"min_engine_version": [
 			1,
-			18,
+			19,
 			0
 		]
 	},
 	"modules": [
 		{
-			"description": "§9Allows you to choose from a selection of menu panoramas §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.4.2 §r",
+			"description": "Allows you to choose from a selection of menu panoramas | §3 by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.4.3 §r",
 			"type": "resources",
 			"uuid": "e016d5ab-1814-46eb-8004-9b2a92780ddc",
 			"version": [
 				1,
 				4,
-				2
+				3
 			]
 		}
 	],
@@ -36,62 +36,62 @@
 		{
 			"folder_name": "Preview",
 			"name": "§9Preview §e[All preview versions]§r",
-			"memory_tier": 2
+			"memory_tier": 1
 		},
 		{
 			"folder_name": "PEpano",
 			"name": "§9Orignal PE Pano §e[PE Alpha 0.7.3]§r",
-			"memory_tier": 3
+			"memory_tier": 1
 		},
 		{
 			"folder_name": "BetterTogether",
 			"name": "§9Better Together Update §e[1.2.0]§r",
-			"memory_tier": 4
+			"memory_tier": 1
 		},
 		{
 			"folder_name": "Aquatic",
 			"name": "§9Update Aquatic §e[1.4.0]§r",
-			"memory_tier": 5
+			"memory_tier": 1
 		},
 		{
 			"folder_name": "Panda",
 			"name": "§9Holiday Update (Panda) §e[1.8.0]§r",
-			"memory_tier": 6
+			"memory_tier": 1
 		},
 		{
 			"folder_name": "Village",
 			"name": "§9Village & Pillage §e[1.11.0]§r",
-			"memory_tier": 7
+			"memory_tier": 1
 		},
 		{
 			"folder_name": "Bees",
 			"name": "§9Buzzy Bees §e[1.14.0]§r",
-			"memory_tier": 8
+			"memory_tier": 1
 		},
 		{
 			"folder_name": "Nether",
 			"name": "§9Nether Update §e[1.16.0]§r",
-			"memory_tier": 9
+			"memory_tier": 1
 		},
 		{
 			"folder_name": "CavesI",
 			"name": "§9Caves and Cliffs Update Part 1 §e[1.17.0]§r",
-			"memory_tier": 10
+			"memory_tier": 1
 		},
 		{
 			"folder_name": "Halloween2021",
 			"name": "§9Halloween 2021 §e[1.17.30]§r",
-			"memory_tier": 12
+			"memory_tier": 1
 		},
 		{
 			"folder_name": "CavesII",
 			"name": "§9Caves and Cliffs update part 2 §e[1.18.0]§r",
-			"memory_tier": 13
+			"memory_tier": 1
 		},
 		{
 			"folder_name": "Wild",
 			"name": "§9The Wild Update §e[1.19.0]§r",
-			"memory_tier": 14
+			"memory_tier": 1
 		}
 	]
 }
