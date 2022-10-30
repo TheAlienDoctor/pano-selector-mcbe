@@ -1,29 +1,29 @@
 {
 	"format_version": 2,
 	"header": {
-		"description": "Allows you to choose from a selection of menu panoramas | §3 by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.4.3 §r",
-		"name": "§1Alien's §ePano selector §4(V1.4.3) §r",
+		"description": "Allows you to choose from a selection of menu panoramas | §3 by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.4.4 §r",
+		"name": "§1Alien's §ePano selector §4(V1.4.4) §r",
 		"uuid": "4ed092a2-7870-4935-8be0-ec87a3b68673",
 		"version": [
 			1,
 			4,
-			3
+			4
 		],
 		"min_engine_version": [
 			1,
 			19,
-			0
+			40
 		]
 	},
 	"modules": [
 		{
-			"description": "Allows you to choose from a selection of menu panoramas | §3 by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.4.3 §r",
+			"description": "Allows you to choose from a selection of menu panoramas | §3 by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.4.4 §r",
 			"type": "resources",
 			"uuid": "e016d5ab-1814-46eb-8004-9b2a92780ddc",
 			"version": [
 				1,
 				4,
-				3
+				4
 			]
 		}
 	],
@@ -91,6 +91,11 @@
 		{
 			"folder_name": "Wild",
 			"name": "§9The Wild Update §e[1.19.0]§r",
+			"memory_tier": 1
+		},
+		{
+			"folder_name": "Halloween2022",
+			"name": "§9Halloween 2022 §e[1.19.40]§r",
 			"memory_tier": 1
 		}
 	]
