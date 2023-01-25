@@ -1,13 +1,13 @@
 {
 	"format_version": 2,
 	"header": {
-		"description": "Allows you to choose from a selection of menu panoramas | §3 by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.4.4 §r",
-		"name": "§1Alien's §ePano selector §4(V1.4.4) §r",
+		"description": "§rAllows you to select a range of different menu background panoramas from previous/different versions of Minecraft. | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.4.5 §r",
+		"name": "§1§lAlien's§r §ePano Selector §4(RP-V1.0.5)§r",
 		"uuid": "4ed092a2-7870-4935-8be0-ec87a3b68673",
 		"version": [
 			1,
 			4,
-			4
+			5
 		],
 		"min_engine_version": [
 			1,
@@ -17,13 +17,13 @@
 	},
 	"modules": [
 		{
-			"description": "Allows you to choose from a selection of menu panoramas | §3 by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.4.4 §r",
+		"description": "§rAllows you to select a range of different menu background panoramas from previous/different versions of Minecraft. | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.4.5 §r",
 			"type": "resources",
 			"uuid": "e016d5ab-1814-46eb-8004-9b2a92780ddc",
 			"version": [
 				1,
 				4,
-				4
+				5
 			]
 		}
 	],
